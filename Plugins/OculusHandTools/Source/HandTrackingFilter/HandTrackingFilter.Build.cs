@@ -22,8 +22,7 @@ public class HandTrackingFilter : ModuleRules
 
 		PrivateDependencyModuleNames.AddRange(
 			new string[] {
-				"OculusUtils",
-				"XRBase",
+				"OculusUtils"
 			}
 		);
 
